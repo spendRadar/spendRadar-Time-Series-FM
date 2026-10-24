@@ -1,0 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/cu124
+
+torch==2.6.0+cu124
+timesfm[torch]==3.0.2
+chronos-forecasting>=2.2,<3
+pandas>=2.2,<4
+matplotlib>=3.9,<4
+
